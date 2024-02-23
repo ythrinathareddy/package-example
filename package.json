@@ -1,5 +1,5 @@
 {
-  "name": "@lexacode/package-example",
+  "name": "@ythrinathareddy/package-example",
   "version": "0.0.1",
   "description": "Example project for TypeScript packages",
   "main": "index.js",
@@ -37,10 +37,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lexacode/package-example.git"
+    "url": "git+https://github.com/ythrinathareddy/package-example.git"
   },
   "bugs": {
-    "url": "https://github.com/lexacode/package-example/issues"
+    "url": "https://github.com/ythrinathareddy/package-example/issues"
   },
-  "homepage": "https://github.com/lexacode/package-example"
+  "homepage": "https://github.com/ythrinathareddy/package-example"
 }
